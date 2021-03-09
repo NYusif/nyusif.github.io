@@ -7,7 +7,7 @@ In my time as a researcher I have found myself in quite an interesting predicame
 - Is "simple" but honestly even then sometimes I get lost
 
 I decided to start this website to help others who, like me, are thirsty for that data but get lost in all the confusing jargon. 
-Before I get deep into to I wanted to share some resources that have been helpful in my quest through voxel laden lands:
+Before diving in I wanted to share some resources that have been helpful in my quest through voxel laden lands:
 
 - [Dr. Mumford's incredible list of resources including her youtube channel, which has saved many a struggling neuroscientist](https://jeanettemumford.org/)
 - [Dr. Jahn who like Dr. Mumford, is among the fMRI legends gracious enough to share their infinite wisdom among us lowly worms](https://www.andysbrainblog.com/)
