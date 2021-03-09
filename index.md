@@ -9,7 +9,7 @@ In my time as a researcher I have found myself in quite an interesting predicame
 I decided to start this website to help others who, like me, are thirsty for that data but get lost in all the confusing jargon. 
 Before I get deep into to I wanted to share some resources that have been helpful in my quest through voxel laden lands:
 
-(https://jeanettemumford.org/ "Dr. Mumford's incredible list of resources including her youtube channel, which has saved many a struggling neuroscientist")
-(https://www.andysbrainblog.com/ "Dr. Jahn who is like Dr. Mumford among the fMRI legends who is gracious enough to share their infinite wisdom among us lowly worms")
+[Dr. Mumford's incredible list of resources including her youtube channel, which has saved many a struggling neuroscientist](https://jeanettemumford.org/)
+[Dr. Jahn who like Dr. Mumford, is among the fMRI legends gracious enough to share their infinite wisdom among us lowly worms](https://www.andysbrainblog.com/)
 
 This is just a place to get started... Hope you stick around for more!
